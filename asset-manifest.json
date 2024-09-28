@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/modern-periodic-table/static/css/main.023efc22.css",
-    "main.js": "/modern-periodic-table/static/js/main.bcd48633.js",
+    "main.js": "/modern-periodic-table/static/js/main.70873ef8.js",
     "index.html": "/modern-periodic-table/index.html",
     "main.023efc22.css.map": "/modern-periodic-table/static/css/main.023efc22.css.map",
-    "main.bcd48633.js.map": "/modern-periodic-table/static/js/main.bcd48633.js.map"
+    "main.70873ef8.js.map": "/modern-periodic-table/static/js/main.70873ef8.js.map"
   },
   "entrypoints": [
     "static/css/main.023efc22.css",
-    "static/js/main.bcd48633.js"
+    "static/js/main.70873ef8.js"
   ]
 }
